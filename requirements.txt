@@ -63,7 +63,7 @@ sumy==0.8.1
 textblob==0.15.3
 thinc==7.4.0
 tqdm==4.45.0
-urllib3==1.25.8
+urllib3==1.26.5
 visitor==0.1.3
 wasabi==0.6.0
 Werkzeug==1.0.1
